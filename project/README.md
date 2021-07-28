@@ -1,0 +1,3 @@
+This code is a code that pulls a dataset using Pandas. The dataset used is the top 250 football transfers of each season from 2010 to 2018. The dataset was read, cleaned and sorted and visualised using various pandas functions within python. A function was defined to calculate and print some calculated values such as the mean, max and min values for the columns with int or float type data types. Inputs from the users were also obtained to help allow them to determine which values were to be used.
+
+Another function was also defined to call certain plots to be derived from the dataset. User inputs were also received and used to determine the plots to be graphed.
